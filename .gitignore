@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+process_xml.yaml
+add_to_vector_db.yaml
+finetune.yaml
+deploy.yaml
+titanml-pod-runner.yaml
+ui-pod-runner.yaml
 # Distribution / packaging
 .Python
 build/
