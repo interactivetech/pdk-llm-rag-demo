@@ -1,9 +1,9 @@
-# Continuous Retrieval Augmentation Generation (RAG) with HPE MLOPs Platform
+# Continuous Retrieval Augmentation Generation (RAG) with the HPE MLOPs Platform
 
 Author: andrew.mendez@hpe.com
 
-This is a proof of concept showing how developers can create a Retrieval Augmentation system using Pachyderm and Determined AI.
-This is a unique RAG system sitting on top of an MLOPs platform, allowing developers to continuously update and deploy a RAG application as more data comes in.
+This is a proof of concept showing how developers can create a Retrieval Augmentation Generation (RAG) system using Pachyderm and Determined AI.
+This is a unique RAG system sitting on top of an MLOPs platform, allowing developers to continuously update and deploy a RAG application as more data is ingested.
 We also provide an example of how developers can automatically trigger finetuning an LLM on a instruction tuning dataset.
 
 We use the following stack:
